@@ -4,7 +4,6 @@ using System.Collections;
 public class CharController : MonoBehaviour {
 	
 	public float _moveSpeed = 5.0f;
-	public float _upDownRange = 60.0f;
 	public float _mouseSensitivity = 5.0f;
 	public float _jumpSpeed = 5;
 	
@@ -24,7 +23,7 @@ public class CharController : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		
-		//X Rotation
+		//X Rotation turn left and right
 		float rotX = Input.GetAxis ("Mouse X");
 		transform.Rotate(0,rotX,0);
 
