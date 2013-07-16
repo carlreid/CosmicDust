@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
+[RequireComponent (typeof(CharacterController))]
 public class CharController : MonoBehaviour {
 	
 	public float _moveSpeed = 5.0f;
@@ -46,7 +47,6 @@ public class CharController : MonoBehaviour {
 		speed = transform.rotation * speed;
 	
 		
-		cc.Move(speed * Time.deltaTime);
-	
+		cc.Move(speed * Time.deltaTime);	
 	}
 }
