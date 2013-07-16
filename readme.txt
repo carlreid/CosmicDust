@@ -1,7 +1,7 @@
 Game Art Style/Ideas:
-British Gas Concept 	- http://massiveblack.com/mbwp/?p=1007
-Planetary Annihilation 	- http://www.youtube.com/watch?v=qqDSh34VoPY
-Voxel Planet 			- http://www.bassvisuals.com/voxel-planet-earth-globe-spin-loop-versions/
+British Gas Concept - http://goo.gl/bjuUp
+Planetary Annihilation - http://goo.gl/JWsQI
+Voxel Planet - http://goo.gl/w1DBh
 
 Gameplay Ideas:
 # Skill system like RuneScape with little interaction.
